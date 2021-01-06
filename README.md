@@ -1,7 +1,7 @@
 # Spicetify-aTisket
 ![aTisket Button](https://github.com/paperSpock/spicetify-aTisket/raw/master/aTisket-screenshot1.png)
 
-An extension for [spicetify-cli](https://github.com/khanhas/spicetify-cli) which adds a button to release pages to launch an   instance of https://etc.marlonob.info/atisket/
+An extension for [spicetify-cli](https://github.com/khanhas/spicetify-cli) which adds a button to release pages to launch an instance of https://etc.marlonob.info/atisket/ for submission to [MusicBrainz](https://musicbrainz.org/)
 
 ### Why?
 Inspired by a [userscript](https://github.com/atj/userscripts/blob/master/spotify_atisket_link.user.js) by [atj](https://github.com/atj), I decided a Spicetify extension would be more useful to me than opening up the Spotify web interface or just pasting a link into aTisket.
