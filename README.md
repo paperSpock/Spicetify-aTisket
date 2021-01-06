@@ -6,7 +6,11 @@ An extension for [spicetify-cli](https://github.com/khanhas/spicetify-cli) which
 ### Why?
 Inspired by a [userscript](https://github.com/atj/userscripts/blob/master/spotify_atisket_link.user.js) by [atj](https://github.com/atj), I decided a Spicetify extension would be more useful to me than opening up the Spotify web interface or just pasting a link into aTisket.
 
-I do most of my music listening on Spotify. If I'm not listening to Spotify, I'm listening to my MP3 player, the library for which I manage with [beets](https://github.com/beetbox/beets). Beets uses the [MusicBrainz](https://musicbrainz.org/) database as its main source of metadata, and most things I listen to on Spotify (which are generally then only available from purchase on iTunes or, more rarely, Bandcamp) haven't been added to MusicBrainz when I go to add them to my library after purchase.  Since aTisket also includes links to iTunes releases, (and there are other userscripts for adding Bandcamp releases to MusicBrainz) this makes it super easy to add to MusicBrainz and maintain my ideal, perfectly-formatted music library.
+I do most of my music listening on Spotify. If I'm not listening to Spotify, I'm listening to my MP3 player, the library for which I manage with [Beets](https://github.com/beetbox/beets).
+
+Beets uses the [MusicBrainz](https://musicbrainz.org/) database as its main source of metadata, and most things I listen to on Spotify (which are generally then only available from purchase on iTunes or, more rarely, Bandcamp) haven't been added to MusicBrainz when I go to add them to my library after purchase.
+
+Since aTisket also includes links to iTunes releases, (and there are other userscripts for [adding Bandcamp releases to MusicBrainz](https://github.com/murdos/musicbrainz-userscripts#bandcamp_importer)) this makes it super easy to add missing releases to MusicBrainz and maintain my ideal, perfectly-formatted music library.
 
 ## Requirements
 - Make sure you have [installed spicetify-cli](https://github.com/khanhas/spicetify-cli/wiki/Installation) and [generated a config](https://github.com/khanhas/spicetify-cli/wiki/Basic-Usage)
