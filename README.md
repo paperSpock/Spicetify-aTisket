@@ -1,5 +1,7 @@
-# Spicetify-aTisket ![aTisket Button](https://github.com/paperSpock/spicetify-aTisket/raw/master/aTisket-screenshot1.png)
-Extension for spicetify-cli which adds a button to release pages to launch an instance of https://etc.marlonob.info/atisket/
+# Spicetify-aTisket
+![aTisket Button](https://github.com/paperSpock/spicetify-aTisket/raw/master/aTisket-screenshot1.png)
+
+An extension for [spicetify-cli](https://github.com/khanhas/spicetify-cli) which adds a button to release pages to launch an   instance of https://etc.marlonob.info/atisket/
 
 ### Why?
 Inspired by a [userscript](https://github.com/atj/userscripts/blob/master/spotify_atisket_link.user.js) by [atj](https://github.com/atj), I decided a Spicetify extension would be more useful to me than opening up the Spotify web interface or just pasting a link into aTisket.
@@ -31,3 +33,9 @@ Click the aTisket button on any release page.
 ### Make sure to read the MusicBrainz **[Beginners Guide](https://musicbrainz.org/doc/Beginners_Guide)** before making any submissions. 
 
 ### Refer to the **[Style Guidelines](https://musicbrainz.org/doc/Style)** or **[MetaBrainz forum](https://community.metabrainz.org/)** with any additional questions about submitting to MusicBrainz.
+
+## License
+
+The icon used is from Google's [Material Design Icons](https://github.com/google/material-design-icons) icon set. The icon itself can be found [here](https://github.com/google/material-design-icons/blob/master/src/action/shopping_basket/materialiconsoutlined/24px.svg).
+
+This code is licensed under [GPL-3.0](https://github.com/paperSpock/Spicetify-aTisket/blob/master/LICENSE)
